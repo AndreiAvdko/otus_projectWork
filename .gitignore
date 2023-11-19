@@ -1,0 +1,10 @@
+# IDEA
+.idea
+
+#Gradle
+.gradle
+gradle
+build
+
+#logfile
+logs.log
